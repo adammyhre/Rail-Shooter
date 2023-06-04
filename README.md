@@ -1,6 +1,6 @@
 # Unity 3D Rail Shooter
 
-A rail shooter game inspired by Star Fox ca. 1980s.
+A rail shooter game inspired by StarFox ca. 1980s and other Rail Shooter games.
 
 ## Dependencies
 
@@ -19,6 +19,6 @@ To get started with the Shoot 'Em Up game development tutorial series, create yo
 
 If you find a bug or would like to contribute to the development of this repository, please feel free to submit a pull request. We're always looking for ways to improve the tutorial series and make it more accessible to developers of all skill levels.
 
-[**Watch the tutorial video here**](https://www.youtube.com/watch?v=XzgTl6MPz-E)
+[**Watch the tutorial video here**](https://youtu.be/dct5vaLfyt4)
 
 You can also check out my [YouTube channel](https://www.youtube.com/@git-amend?sub_confirmation=1) for more Unity content.
