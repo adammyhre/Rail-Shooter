@@ -13,7 +13,7 @@ To use this repository, you'll need to have the following dependencies installed
 
 ## Installation
 
-To get started with the Shoot 'Em Up game development tutorial series, create your own URP project in Unity and follow along with the video. This repository will serve as a reference for anyone who gets stuck, or if any mistakes are found in the video recording. Once you have created your project, be sure to install the dependencies listed above.
+To get started with the Rail Shooter game development tutorial series, create your own URP project in Unity and follow along with the video. This repository will serve as a reference for anyone who gets stuck, or if any mistakes are found in the video recording. Once you have created your project, be sure to install the dependencies listed above.
 
 ## Contributing
 
