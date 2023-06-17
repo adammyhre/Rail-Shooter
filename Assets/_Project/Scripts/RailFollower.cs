@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 namespace RailShooter {
-    public class CameraController : MonoBehaviour {
+    public class RailFollower : MonoBehaviour {
         [SerializeField] Transform player;
         [SerializeField] Transform followTarget;
         [SerializeField] float followDistance = 22f;
